@@ -3,16 +3,16 @@
 An application that searches for the necessary photos and images in the Unsplash library.
 
 
-Technologies:
-API Unsplash (path: "/search/photos")
-Dependency manager: CocoaPods
-Embedded libraries: SDWebImage (CocoaPods)
+• Technologies:
+• API Unsplash (path: "/search/photos")
+• Dependency manager: CocoaPods
+• Embedded libraries: SDWebImage (CocoaPods)
 
 
-Possibilities:
-Unsplash gallery search,
-Save selected images to iPhone,
-Ability to share selected images on social networks and instant messengers.
+• Possibilities:
+• Unsplash gallery search,
+• Save selected images to iPhone,
+• Ability to share selected images on social networks and instant messengers.
 
 
 This is the first version of the application in which only the search part is implemented. Soon I will implement the first ViewController with popular photos.
