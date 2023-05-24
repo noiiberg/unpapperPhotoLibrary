@@ -1,6 +1,4 @@
-# unpapperPhotoLibrary
-# 1.0.1 (PhotoLibrary)
-# Unpapper app on Unsplash API/
+# Unpapper app on Unsplash API | 1.0.1 (PhotoLibrary)
 
 An application that searches for the necessary photos and images in the Unsplash library.
 
