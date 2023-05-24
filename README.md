@@ -2,12 +2,10 @@
 
 An application that searches for the necessary photos and images in the Unsplash library.
 
-
 Technologies:
 API Unsplash (path: "/search/photos")
 Dependency manager: CocoaPods
 Embedded libraries: SDWebImage (CocoaPods)
-
 
 Possibilities:
 Unsplash gallery search,
